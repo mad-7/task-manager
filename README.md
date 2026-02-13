@@ -23,7 +23,6 @@ A simple command-line task management application for students to organize homew
 git clone <your-repository-url>
 cd task-manager
 ```
-
 2. Ensure you have Python installed:
 ```bash
 python3 --version
@@ -85,15 +84,7 @@ Tasks are stored in `tasks.json` with the following structure:
 - **Language**: Python 3
 - **Storage**: JSON file (`tasks.json`)
 - **Error Handling**: Validates user input and handles file I/O errors
-- **Code Style**: Follows PEP 8 guidelines (Flake8 compliant)
-
-## 🧪 Testing
-
-To verify code quality with Flake8:
-```bash
-flake8 tasks.py
-```
-
+  
 ## 🐛 Error Handling
 
 The application handles:
@@ -102,23 +93,3 @@ The application handles:
 - Missing or corrupted JSON files
 - Invalid menu choices
 - File I/O errors
-
-## 👨‍🎓 Academic Information
-
-- **University**: University of Mohamed Kheider – Biskra
-- **Course**: Programming
-- **Level**: PhD students
-- **Academic Year**: 2025/2026
-
-## 📝 License
-
-This is a student project for educational purposes.
-
-## 🤝 Contributing
-
-This is a mini-project assignment. Contributions should follow the course guidelines.
-
-## 📧 Contact
-
-For questions related to this project, please contact your course instructor.
-"# task-manager" 
