@@ -1,6 +1,6 @@
 # Task Manager - Command Line Application
 
-A simple command-line task management application for students to organize homework and study tasks. Built with Python and JSON persistence.
+A simple command-line task management application. Built with Python and JSON.
 
 ## 📋 Features
 
