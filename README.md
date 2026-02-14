@@ -20,7 +20,7 @@ A simple command-line task management application. Built with Python and JSON.
 
 1. Clone this repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/mad-7/task-manager.git
 cd task-manager
 ```
 2. Ensure you have Python installed:
